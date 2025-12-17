@@ -46,6 +46,11 @@ a{color:inherit;text-decoration:none}
     padding:14px 0;
 }
 
+.nav-logo {
+    height: 44px;
+    width: auto;
+}
+
 .brand{font-weight:800;letter-spacing:.6px}
 
 .links{display:flex;gap:14px;align-items:center}
