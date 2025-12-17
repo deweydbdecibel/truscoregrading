@@ -69,11 +69,11 @@ a{color:inherit;text-decoration:none}
 .hero-kicker {
     display: flex;
     align-items: center;
-    gap: 12px;
-    margin-bottom: 10px;
+    gap: 10px;
 }
+
 .hero-logo {
-    height: 44px;
+    height: 36px;
     width: auto;
 }
 .hero-inner{
